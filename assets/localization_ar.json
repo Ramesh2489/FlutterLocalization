@@ -1,0 +1,12 @@
+{
+  "tab_home": "الصفحة الرئيسية",
+  "key_password": "كلمه السر",
+  "key_must_be_at_least_6_characters": "يجب ألا يقل عن 6 أحرف",
+  "key_email": "البريد الإلكتروني",
+  "key_please_enter_valid_email": "الرجاء إدخال بريد إلكتروني صحيح",
+  "key_last_name": "الكنية",
+  "key_enter_last_name": "إدخال اسم آخر",
+  "key_first_name": "الاسم الاول",
+  "key_enter_first_name": "أدخل الاسم الأول",
+  "key_next": "التالى"
+}

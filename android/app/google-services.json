@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091889052438",
+    "firebase_url": "https://multilingual-7b23e.firebaseio.com",
+    "project_id": "multilingual-7b23e",
+    "storage_bucket": "multilingual-7b23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091889052438:android:2b68e1fe7840417de26e37",
+        "android_client_info": {
+          "package_name": "com.embitel.multilingualapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091889052438-6tb5s4ir8e5s3fk6hps4nlui1a3kulnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhqtQeZzcacTTG6f7Oi8_BbS5y-l9a8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091889052438-6tb5s4ir8e5s3fk6hps4nlui1a3kulnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

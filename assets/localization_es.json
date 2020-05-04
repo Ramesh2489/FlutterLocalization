@@ -1,0 +1,12 @@
+{
+  "tab_home": "Casa",
+  "key_password": "Contraseña",
+  "key_must_be_at_least_6_characters": "\nDebe tener como mínimo 6 caracteres",
+  "key_email": "Correo electrónico",
+  "key_please_enter_valid_email": "\nPor favor introduzca un correo electrónico válido",
+  "key_last_name": "Apellido",
+  "key_enter_last_name": "Introduzca el apellido",
+  "key_first_name": "Nombre de pila",
+  "key_enter_first_name": "Ingrese el nombre",
+  "key_next": "Próxima"
+}
